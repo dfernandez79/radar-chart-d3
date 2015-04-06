@@ -9,6 +9,7 @@
   "license": "Apache",
   "ignore": [
     ".jshintrc",
+    ".gitignore",
     "**/*.txt"
   ],
   "dependencies": {
